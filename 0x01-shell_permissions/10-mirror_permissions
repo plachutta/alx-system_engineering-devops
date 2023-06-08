@@ -1,5 +1,2 @@
 #!/bin/bash
-source_file="olleh"
-target_file="hello"
-mode=$(stat -c "%a" "$Source_file")
-chmod "$mode" "$target_file"
+MODE=$(stat -c "%" olleh) chmod "$MODE" hello
