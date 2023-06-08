@@ -1,2 +1,2 @@
 #!/bin/bash
-MODE=$(stat -c "%" olleh) chmod "$MODE" hello
+MODE=$(stat -c "%" olleh) chmod 314 "$MODE" hello
