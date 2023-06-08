@@ -1,2 +1,2 @@
 #!/bin/bash
-MODE=$(stat -c "%" olleh) chmod 194 "$MODE" hello
+chmod --reference=olleh hello
