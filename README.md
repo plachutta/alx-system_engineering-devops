@@ -1,1 +1,1 @@
-scripting on shell
+scripting
