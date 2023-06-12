@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d "\n" -f 3 lacta
+head -n 3 | tail -n 1
